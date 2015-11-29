@@ -2,7 +2,7 @@
 
 #wrapper h1 {
 	background-image: url("../images/jump.jpg");
-	height: 550px;
+	height: 100%;
 	background-size: cover;
 	text-align: center;
 	padding-top: 300px
