@@ -10,6 +10,8 @@
 
 h1 {
 	padding-top: 1em;
+	<p class="text-left">Left aligned text.</p>
+
 }
 
 h2 {
@@ -74,6 +76,7 @@ a {
 
 h3 {
 	color: white;
+		text-align: center;
 	font-size: 20px;
 }
 #footer {
